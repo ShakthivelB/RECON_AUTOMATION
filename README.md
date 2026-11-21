@@ -27,6 +27,8 @@ The tool combines subdomain enumeration, live host detection, historical URL col
 ## 🫸🏻 USAGE
 
 ```
+git clone https://github.com/ShakthivelB/RECON_AUTOMATION.git
+chmod +x recon
 ./recon -h
 ./recon --help
 ./recon -v
