@@ -1,0 +1,3 @@
+https://staging.vulnhub.com
+https://www.vulnhub.com
+https://download.vulnhub.com

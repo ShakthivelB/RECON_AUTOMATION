@@ -1,0 +1,3 @@
+https://staging.vulnhub.com [200] [Vulnerable By Design ~ VulnHub] [Bootstrap:4.4.1,BootstrapCDN:4.4.1,Cloudflare,Cloudflare Browser Insights,HTTP/3,jQuery CDN,jQuery:3.4.1]
+https://www.vulnhub.com [200] [Vulnerable By Design ~ VulnHub] [Bootstrap:4.4.1,BootstrapCDN:4.4.1,Cloudflare,Cloudflare Browser Insights,HTTP/3,jQuery CDN,jQuery:3.4.1]
+https://download.vulnhub.com [200] [Cloudflare,HTTP/3]

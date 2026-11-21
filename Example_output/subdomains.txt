@@ -1,0 +1,5 @@
+download.vulnhub.com
+staging.vulnhub.com
+www.vulnhub.com
+blog.vulnhub.com
+ctf-team.vulnhub.com

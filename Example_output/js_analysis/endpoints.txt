@@ -1,0 +1,12 @@
+https://ampcid.google.com/v1/publisher:getClientId
+https://getbootstrap.com/)
+https://github.com/twbs/bootstrap/blob/master/LICENSE)
+https://github.com/twbs/bootstrap/graphs/contributors)
+https://popper.js.org/)
+https://stats.g.doubleclick.net/j/collect
+https://tagassistant.google.com/
+https://www.google.%/ads/ga-audiences
+https://www.google-analytics.com/debug/bootstrap?id=
+https://www.google-analytics.com/gtm/js?id=
+https://www.google.com/ads/ga-audiences
+https://www.googletagmanager.com/gtag/js?id=
